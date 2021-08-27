@@ -1,0 +1,1 @@
+extensions = ['cogs.test', 'jishaku']
